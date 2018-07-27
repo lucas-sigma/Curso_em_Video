@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Users\lucas\Documents\Workspace\Java-Workspace\Learn\Curso_em_Video\POO\.metadata\.plugins\org.eclipse.jdt.core
+3323497099.index
+2755043341.index
+1565642678.index

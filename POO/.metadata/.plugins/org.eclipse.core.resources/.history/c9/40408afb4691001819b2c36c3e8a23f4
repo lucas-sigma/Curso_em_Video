@@ -1,0 +1,46 @@
+package aula07;
+
+public class Lutador {
+	private String nome, nacionalidade, categoria;
+	private int idade, vitorias, derrotas, empates;
+	private boolean altura, peso;
+	
+	
+	
+	// Getters'n Setters
+	
+	public Lutador(String nome, String nacionalidade, String categoria, int idade, int vitorias, int derrotas,
+			int empates, boolean altura, boolean peso) {
+		super();
+		this.nome = nome;
+		this.nacionalidade = nacionalidade;
+		this.categoria = categoria;
+		this.idade = idade;
+		this.vitorias = vitorias;
+		this.derrotas = derrotas;
+		this.empates = empates;
+		this.altura = altura;
+		this.peso = peso;
+	}
+
+	// Métodos
+	public void apresentar() {
+		
+	}
+	
+	public void status() {
+		
+	}
+	
+	public void ganharLuta() {
+		
+	}
+	
+	public void perderLuta() {
+		
+	}
+	
+	public void empatarLuta() {
+		
+	}
+}

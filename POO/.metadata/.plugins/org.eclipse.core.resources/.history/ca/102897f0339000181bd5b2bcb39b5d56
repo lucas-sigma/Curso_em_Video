@@ -1,0 +1,6 @@
+package aula06;
+
+public class Aula06 {
+	private int volume;
+	private boolean ligado, tocando;
+}

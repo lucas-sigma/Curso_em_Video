@@ -1,0 +1,11 @@
+package aula07;
+
+public class Lutador {
+	private String nome, nacionalidade, categoria;
+	private int idade, vitorias, derrotas, empates;
+	private boolean altura, peso;
+	
+	public Lutador() {
+		
+	}
+}

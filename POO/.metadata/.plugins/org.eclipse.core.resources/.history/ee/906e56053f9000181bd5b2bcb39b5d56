@@ -1,0 +1,5 @@
+package aula06;
+
+public class Aula06 {
+	ControleRemoto c = new ControleRemoto();
+}
