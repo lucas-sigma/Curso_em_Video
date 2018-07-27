@@ -1,0 +1,20 @@
+package aula08;
+
+import aula07.Lutador;
+
+public class Luta {
+	private Lutador desafiado, desafiante;
+	private int rounds;
+	private boolean aprovada;
+	
+	// Métodos Públicos
+	public void marcarLuta() {
+		
+	}
+	
+	public void lutar() {
+		
+	}
+	
+	// Métodos Especiais
+}

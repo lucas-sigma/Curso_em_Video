@@ -1,0 +1,8 @@
+package aula08;
+
+import aula07.Lutador;
+
+public class Luta {
+	private Lutador desafiado, desafiante;
+	
+}
