@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="aula06.ControleRemoto"/>
+    <fullyQualifiedTypeName name="aula07.Lutador"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="aula08.Luta"/>
+    <fullyQualifiedTypeName name="exercicio.Publicacao"/>
 </qualifiedTypeNameHistroy>
